@@ -11,6 +11,7 @@ public class L29_DefiniteWhileLoop {
         System.out.println("Ended");
     }
 }
+
 /*
 String email = "admin@gmail.com";
 int pin = 13579;
@@ -22,5 +23,4 @@ myEmail = email and myPint = pin ==> Login Success
 myEmail = email but myPin != pin => Incorrect pin
 myEmail != email but myPin = pin => Incorrect email
 myEmail != email and myPint != pin => Login Failed
-
  */
