@@ -26,7 +26,9 @@ public class Console {
     }
 }
 /*
+HOMEWORK
 ("Hello", "ell") => true
-String contains/startsWith/endsWith (2 parameters)
-String length ("Hello) => 5
+1) String toLowerCase(), toUpperCase()
+2) String contains/startsWith/endsWith
+3) String length
  */
