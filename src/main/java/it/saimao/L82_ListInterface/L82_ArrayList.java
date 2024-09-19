@@ -50,12 +50,7 @@ public class L82_ArrayList {
         // IndexOf
         System.out.println("Index of INO - " + list.indexOf("Sarada"));
 
-        list.forEach(new Consumer<String>() {
-            @Override
-            public void accept(String s) {
-                System.out.println(s);
-            }
-        });
+        list.forEach(s -> System.out.println(s));
     }
 
 }

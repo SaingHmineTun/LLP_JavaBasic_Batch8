@@ -1,11 +1,10 @@
 package it.saimao.L87_MapInterface;
 
-import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
 // INSERTION ORDER
-public class L87_LinkedHashMap {
+public class L88_LinkedHashMap {
     public static void main(String[] args) {
 
         // Creating a map
@@ -48,7 +47,7 @@ public class L87_LinkedHashMap {
             System.out.println(string + " : " + map.get(string));
         }
 
-        L87_LinkedHashMap l87HashMap = new L87_LinkedHashMap();
+        L88_LinkedHashMap l87HashMap = new L88_LinkedHashMap();
         System.out.println(l87HashMap.hashCode());
 
         System.out.println("###########################");

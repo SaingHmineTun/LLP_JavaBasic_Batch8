@@ -1,12 +1,10 @@
 package it.saimao.L87_MapInterface;
 
-import java.util.Comparator;
-import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.TreeMap;
 
 // ASCENDING (ALPHABET) ORDER
-public class L88_TreeMap {
+public class L89_TreeMap {
     public static void main(String[] args) {
 
         // Creating a map
@@ -49,7 +47,7 @@ public class L88_TreeMap {
             System.out.println(string + " : " + map.get(string));
         }
 
-        L88_TreeMap l87HashMap = new L88_TreeMap();
+        L89_TreeMap l87HashMap = new L89_TreeMap();
         System.out.println(l87HashMap.hashCode());
 
         System.out.println("###########################");
